@@ -38,7 +38,7 @@
 						images: {
 							'https://act-webstatic.blueakio.com/2024/10/20/6714773e08205.png': 'center',
 							'https://act-webstatic.blueakio.com/2024/10/20/6714777c73e6d.png': 'center',
-							'https://act-webstatic.blueakio.com/2024/10/20/67147792e1aba.png': 'center'
+							// 'https://act-webstatic.blueakio.com/2024/10/20/67147792e1aba.png': 'center'
 						},
 
 					// Delay.
