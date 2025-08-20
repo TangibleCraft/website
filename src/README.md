@@ -3,6 +3,7 @@ home: true
 icon: house
 title: 首页 
 heroImage: https://webstatic.blueakio.com/icon/tangiblecraft.svg
+heroImageDark: https://webstatic.blueakio.com/icon/tangiblecraft-white.svg
 bgImage: https://act-webstatic.blueakio.com/2025/08/21/68a5faada7a5d.png
 bgImageDark: https://act-webstatic.blueakio.com/2025/08/21/68a5faada7a5d.png
 bgImageStyle:
