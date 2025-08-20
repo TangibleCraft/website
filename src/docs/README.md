@@ -1,6 +1,6 @@
 ---
 title: 文档
-index: false
+index: true
 icon: material-symbols:docs
 ---
 
