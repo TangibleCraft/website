@@ -6,10 +6,12 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   hostname: "https://tc.blueakio.com",
 
-  author: {
+  /*author: {
     name: "TangibleCraft",
     url: "https://tc.blueakio.com",
-  },
+  },*/
+
+  favicon: "https://webstatic.blueakio.com/icon/tangiblecraft.svg",
 
   logo: "https://webstatic.blueakio.com/icon/tangiblecraft.svg",
 
