@@ -1,7 +1,5 @@
 ---
 title: 加入我们
-index: false
+index: true
 icon: material-symbols:join
 ---
-
-<Catalog />

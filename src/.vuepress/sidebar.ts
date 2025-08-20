@@ -4,7 +4,9 @@ export default sidebar({
   "/": [
     "",
     "/about",
-    "/join-us/",
-    "/docs/",
   ],
+
+  "/join-us/": "structure",
+
+  "/docs/": "structure",
 });
