@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "文档演示",
-  description: "vuepress-theme-hope 的文档演示",
+  title: "堂瞰工艺 TangibleCraft",
+  description: "一个 Minecraft 城建服务器",
 
   theme,
 
