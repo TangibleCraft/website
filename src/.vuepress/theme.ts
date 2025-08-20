@@ -14,6 +14,7 @@ export default hopeTheme({
   favicon: "https://webstatic.blueakio.com/icon/tangiblecraft.svg",
 
   logo: "https://webstatic.blueakio.com/icon/tangiblecraft.svg",
+  logoDark: "https://webstatic.blueakio.com/icon/tangiblecraft-white.svg",
 
   //repo: "vuepress-theme-hope/vuepress-theme-hope",
 
