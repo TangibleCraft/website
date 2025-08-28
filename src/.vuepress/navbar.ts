@@ -5,4 +5,5 @@ export default navbar([
   "/about",
   "/join-us/",
   "/docs/",
+  "/policy/",
 ]);
