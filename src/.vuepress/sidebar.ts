@@ -35,8 +35,9 @@ export default sidebar({
       prefix: "/policy/",
       icon: "material-symbols:policy",
       children: [
-        "privacystatement",
-        "resource-pack",
+        "player-agreement",
+        "privacy-statement",
+        "resource-pack-agreement",
       ],
     },
   ],
