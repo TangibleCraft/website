@@ -21,4 +21,4 @@ actions:
     link: ./join-us/
 
 copyright: false
-footer: Copyright © 2025 TangibleCraft
+footer: Copyright © 2022- 2025 TangibleCraft

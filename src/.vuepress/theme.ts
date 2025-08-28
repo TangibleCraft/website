@@ -27,7 +27,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "",
+  footer: "Copyright © 2022- 2025 TangibleCraft",
   displayFooter: true,
 
   // 加密配置
